@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My Email : merqqcury@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotMercury&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
